@@ -1,6 +1,6 @@
 # Python For DevOps
 
-This repository is part of the **Python For DevOps – (Live Weekend Batch)[https://www.trainwithshubham.com/courses/Python-For-DevOps-AI-Edition-69241796652bda5433f1b0b7]**.
+This repository is part of the **Python For DevOps – [Live Weekend Batch](https://www.trainwithshubham.com/courses/Python-For-DevOps-AI-Edition-69241796652bda5433f1b0b7)**.
 
 It is designed to help beginners and DevOps aspirants learn how to use Python for real DevOps tasks such as automation, cloud operations, log analysis, and internal tooling.
 
