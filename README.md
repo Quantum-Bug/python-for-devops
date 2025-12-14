@@ -1,6 +1,6 @@
 # Python For DevOps
 
-This repository is part of the **Python For DevOps – Live Weekend Batch**.
+This repository is part of the **Python For DevOps – (Live Weekend Batch)[https://www.trainwithshubham.com/courses/Python-For-DevOps-AI-Edition-69241796652bda5433f1b0b7]**.
 
 It is designed to help beginners and DevOps aspirants learn how to use Python for real DevOps tasks such as automation, cloud operations, log analysis, and internal tooling.
 
@@ -21,39 +21,10 @@ This repository emphasizes:
 
 ---
 
-## Course Breakdown
-
-### Day 1 – Introduction to Python for DevOps
-- Python setup and environment
-- Writing first DevOps-style script
-- Inputs, conditionals, loops
-- Functions and reusable logic
-- Basic file handling (logs and configs)
-
-### Day 2 – Automating System Tasks with Python
-- Python packages and project structure
-- main function and entrypoint concepts
-- Working with APIs using requests
-- Understanding and parsing JSON
-- Simple automation scenarios
-
-### Day 3 – AWS Automation with Boto3 & FastAPI
-- AWS automation using Boto3
-- EC2 and S3 basics
-- Handling AWS responses and errors (conceptual)
-- Building internal DevOps tools using FastAPI
-- Introduction to Agentic AI (conceptual)
-
-### Day 4 – Capstone Project (Python for DevOps)
-- End-to-end DevOps automation project
-- Combining Python, AWS, and APIs
-- Project structure and GitHub best practices
-- Explaining the project in interviews
-
----
-
 ## Repository Structure
 
+
+``` bash
 python-for-devops/
 ├── README.md
 ├── requirements.txt
@@ -69,7 +40,7 @@ python-for-devops/
 ├── day-10/   # PRACTICE + WRAP-UP
 ├── projects/
 └── tests/
-
+```
 ---
 
 ## Tech Stack
