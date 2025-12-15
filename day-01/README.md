@@ -70,7 +70,7 @@ Share your progress on LinkedIn:
 
 Optional:
 - Tag **TrainWithShubham** or **Shubham Londhe** 
-- Use hashtags: `#PythonForDevOps #TrainWithShubham #DevOpsKaJosh` (Mandatory for me to filter post and Like/ Comment / Repost / engage)
+- Use hashtags: `#PythonForDevOps #TrainWithShubham #DevOpsKaJosh` (Helps me to filter post and Like/ Comment / Repost / engage)
 
 
 Happy Learning
