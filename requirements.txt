@@ -1,0 +1,36 @@
+# -----------------------------------------
+# Python For DevOps - Dependencies
+# -----------------------------------------
+# This file contains all Python libraries used
+# across Day 01 to Day 10 of the course.
+#
+# Install using:
+# pip install -r requirements.txt
+# -----------------------------------------
+
+
+# Day 01 – System Monitoring
+# Used to fetch CPU, memory, disk metrics
+psutil>=5.9.0
+
+
+# Day 02 – API & JSON Automation
+# Used to call public APIs (GitHub, JSONPlaceholder)
+requests>=2.31.0
+
+
+# Day 08 – AWS Automation
+# Used to interact with AWS services like EC2 and S3
+boto3>=1.34.0
+botocore>=1.34.0
+
+
+# Day 09 – Building APIs for DevOps Tools
+# Used to expose Python logic as HTTP APIs
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+
+
+# Optional – Code Formatting & Best Practices
+# Helps follow PEP8 and keep code clean
+black>=24.0.0
