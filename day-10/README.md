@@ -11,6 +11,7 @@ By today, you have already:
 - Worked with logs
 - Used AWS
 - Built a small API
+- Understood how AI Agents are Built
 
 Now it’s time to:
 - Understand **why this learning matters**
